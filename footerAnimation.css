@@ -21,12 +21,14 @@ body {
 #Yellow_car{
 
     visibility: hidden;
-    animation: Yellow-car-left-to-right 50s linear  infinite ;
+    animation: Yellow-car-left-to-right 30s linear  infinite ;
+        /* 50 */
 } 
 #Magenta_car{
    
     visibility: hidden;
-    animation: Magenta-car-left-to-right 45s linear 15s infinite;
+    animation: Magenta-car-left-to-right 31.5s linear 15s infinite;
+    /* 45 */
 }
 
 #Green_airship{
@@ -44,20 +46,23 @@ body {
 #Orange_car{
 
     visibility: hidden;
-    animation: Orange-car-right-to-left 55s linear 10s infinite;
+    animation: Orange-car-right-to-left 38.5s linear 10s infinite;
+    /* 55 */
 }
 
 #Pink_car{
   
     visibility: hidden;
-    animation: Pink-car-right-to-left 45s linear 15s infinite;
+    animation: Pink-car-right-to-left 31.5s linear 15s infinite;
+     /* 45 */
 
 }
 
 #Blue_bus{
   
     visibility: hidden;
-    animation: Blue-bus-right-to-left 45s linear infinite;
+    animation: Blue-bus-right-to-left 31.5s linear infinite;
+     /* 45 */
 
 }
 
